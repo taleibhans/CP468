@@ -1,7 +1,3 @@
-# Enhanced version of the Tic Tac Toe game with:
-# 1. Sound effects
-# 2. Turn indicator
-# 3. Highlighted winning line
 
 import pygame
 import sys
